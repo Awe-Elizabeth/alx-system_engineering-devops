@@ -8,3 +8,4 @@ Delete directory
 Go back
 Lists
 Prints type
+Symbol link
