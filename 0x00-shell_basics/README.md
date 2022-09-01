@@ -7,3 +7,4 @@ Delete file
 Delete directory
 Go back
 Lists
+Prints type
