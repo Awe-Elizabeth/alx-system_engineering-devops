@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .). Us
 Delete file
 Delete directory
 Go back
+Lists
