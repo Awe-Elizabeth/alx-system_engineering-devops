@@ -5,3 +5,4 @@ creates a script that display current directory contents in a long format
 Display current directory contents, including hidden files (starting with .). UsDisplay current directory contents
 Delete file
 Delete directory
+Go back
