@@ -5,3 +5,4 @@ changes owner
 creates a new file
 add executable permission to owner
 Adds permissions
+Execute permission to owners and groups
